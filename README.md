@@ -21,6 +21,10 @@ Hamming codes are a type of error-correcting code designed to detect and correct
 A recursive method for calculating Hamming codes involves placing the parity bits iteratively:
 ![hamming recursive](hamming_recursive.jpg)
 
+<p align="center">
+  <img height=350 src="hamming_recursive.jpg" >
+</p>
+
 Once the parity bits are computed, the code can detect and correct any single-bit error by using the same syndrome decoding technique.
 
 
