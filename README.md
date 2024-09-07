@@ -19,7 +19,6 @@ where $`r`$ is the received message and $`H`$ is the parity-check matrix. If the
 Hamming codes are a type of error-correcting code designed to detect and correct single-bit errors. They follow the structure $`[2^m - 1, 2^m - m - 1]`$, where $`m`$ is the number of parity bits. Hamming codes are constructed by placing parity bits at strategic positions in the message. These parity bits check certain positions in the code to detect and correct errors. 
 
 A recursive method for calculating Hamming codes involves placing the parity bits iteratively:
-![hamming recursive](hamming_recursive.jpg)
 
 <p align="center">
   <img height=350 src="hamming_recursive.jpg" >
