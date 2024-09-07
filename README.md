@@ -1,8 +1,6 @@
 # Coding-Theory-Projects
 
-This repository contains a detailed implementation of the Syndrome decoding method, which can be found in the `Syndrome Decoding.ipynb` file. 
-
-It also contains an implementation of the Hamming Code, using an iterative approach. It can be found the `Recursive Hamming Code.ipynb` file.
+This repository contains a detailed implementation of the Syndrome decoding method. It also contains an implementation of the Hamming Code, using an iterative approach. These projects were made for my Coding Theory course in spring 2024.
 
 
 ## Syndrome Decoding
